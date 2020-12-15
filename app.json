@@ -1,7 +1,13 @@
 {
   "expo": {
-    "name": "amazon-clone",
-    "slug": "amazon-clone",
+    "name": "Amazon UI clone",
+    "slug": "aak-amazon-ui-clone",
+    "privacy":"public",
+    "description":"Work on UI skills",
+    "platforms":[
+      "ios",
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,9 +30,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
+    
   }
 }
